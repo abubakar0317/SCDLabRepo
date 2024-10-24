@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class marksheet {
     public static void main(String[] args) {
+        System.out.println("New Change")
         Scanner inp = new Scanner(System.in);
         double marks,sum = 0;
         for(int i =1;i<=5;i++){
